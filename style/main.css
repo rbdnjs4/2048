@@ -518,6 +518,7 @@ hr {
   margin-bottom: 0; }
 
 .restart-button {
+  margin-top: 20px;
   display: inline-block;
   background: #8f7a66;
   border-radius: 3px;
@@ -528,7 +529,8 @@ hr {
   line-height: 42px;
   display: block;
   text-align: center;
-  float: right; }
+
+  right:-50%;}
 
 .game-explanation {
   margin-top: 50px; }
